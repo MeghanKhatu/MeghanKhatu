@@ -8,8 +8,8 @@ continuously testing concepts to increase effectiveness and usability.
 - Enhancing HTML and C/C++ languages
 <hr>
 <b>Goals📊:</b><br>
--Learning <i>PowerBI</i> with practical knowledge and real-life application.
--2 <i>major projects</i> in Python and HTML.
+-Learning <i>PowerBI</i> with practical knowledge and real-life application.<br>
+-2 <i>major projects</i> in Python and HTML.<br>
 
 
  
