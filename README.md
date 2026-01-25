@@ -7,9 +7,9 @@ continuously testing concepts to increase effectiveness and usability.
 - Learning Mediocre Python and project development to upscale it to advanced Python.<br>
 - Enhancing HTML and C/C++ languages
 <hr>
-<b>Goals📊:<b><br>
--Learning PowerBI with practical knowledge and real-life application.
--2 major projects in Python and HTML.
+<b>Goals📊:</b><br>
+-Learning <i>PowerBI</i> with practical knowledge and real-life application.
+-2 <i>major projects</i> in Python and HTML.
 -
 
  
