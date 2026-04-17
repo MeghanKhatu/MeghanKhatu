@@ -4,8 +4,9 @@ Continuously testing concepts to increase effectiveness and usability.
 <hr>
 <b>Currently working on☝🏼:</b><br>
 - Building novice to advance scripts and projects <i>(will upload on github)</i>.<br>
-- Learning Mediocre Python and project development to upscale it to advanced Python.<br>
+- Advancing Python skills and implementing it with other languages. 
 - Enhancing HTML and C/C++ languages
+- Learning Ruby 4.0
 <hr>
 <b>Goals📊:</b><br>
 -Learning <i>Kotlin</i> with practical application building.<br>
