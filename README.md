@@ -11,6 +11,7 @@ Continuously testing concepts to increase effectiveness and usability.
 <b>Goals📊:</b><br>
 -Learning <i>Kotlin</i> with practical application building.<br>
 -2 <i>major projects</i> in Python and HTML.<br>
+-Advacing in Ruby.<br>
 
 
  
